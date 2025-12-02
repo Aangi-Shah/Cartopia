@@ -90,7 +90,7 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Cartopia/
@@ -209,8 +209,6 @@ npm run dev
 
 ---
 
----
-
 # API Highlights
 
 ## Products
@@ -254,6 +252,8 @@ POST /api/order/cancel
 Aangi Shah
 
 Vraj Sanghavi
+
+---
 
 # License
 
