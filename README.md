@@ -144,6 +144,7 @@ Cartopia/
 │   ├── index.html
 │   ├── package-lock.json
 │   ├── package.json
+│   ├── vercel.json
 │   ├── vite.config.js
 │   └── eslint.config.js
 │
